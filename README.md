@@ -27,6 +27,8 @@ Ao sincronizar, podemos verificar o nosso novo repositório atualizado, veremos 
 
 ![alt text](./Img/Img_2.png "Imagem 2")
 
+![alt text](./Img/Img_4.png "Imagem 2")
+
 O C# Sharp é uma linguagem orientada a objetos e também a componentes. Também é fortemente tipada, onde definimos o tipo e o comportamento dos objetos. 
 
 Agora vamos escrever nosso primeiro código em c# Sharp. Pediremos para que a aplicação imprima no nosso terminal a mensagem Olá Mundo!
@@ -56,5 +58,3 @@ Digitamos então dotnet run e obtemos o resultado conforme a imagem abaixo:
 
 Pronto! Vamos atualizar novamente o nosso repositório, para que a qualquer momento possamos reabri-lo e dar 
 uma sequência a evolução do projeto.
-
-![alt text](./Img/Img_4.png "Imagem 2")
