@@ -1,4 +1,4 @@
-# C Sharp - Um estudo da linguagem
+# C Sharp - Fundamentos da linguagem
 
 De acordo com a documentação da Microsoft a linguagem C# enfatiza o controle de versão para garantir que programas e bibliotecas possam evoluir ao longo do tempo de maneira compatível. Aspectos do design do C# que
 foram diretamente influenciados pelas considerações de controle de versão incluem os
@@ -24,4 +24,28 @@ https://github.com/EdwardAmagasaki/gitInicial
 
 Nesse momento estou realizando o primeiro commit do projeto.
 
+Verificando nosso novo repositório, veremos a imagem abaixo:
 
+O C# Sharp é uma linguagem orientada a objetos e também a componentes, onde temos por exemplo o nosso: WebForms e outros componentes mais modernos. Também é fortemente tipada, onde definimos o tipo e o comportamento dos objetos. 
+
+Agora vamos escrever nosso primeiro código em c# Sharp. Pediremos para que a aplicação imprima no nosso terminal a mensagem Olá Mundo!
+
+```
+dotnet new console
+```
+Incluimos o código abaixo dentro do arquivo Program.cs :
+```
+using System;
+class Ola
+{
+ static void Main()
+ {
+ Console.WriteLine("Olá, Mundo");
+ }
+}
+
+```
+Digitamos então dotnet run e obtemos o resultado conforme a imagem abaixo:
+
+Pronto! Vamos atualizar novamente o nosso repositório, para que a qualquer momento possamos reabri-lo e dar 
+uma sequência a evolução do projeto.

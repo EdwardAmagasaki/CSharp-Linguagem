@@ -1,0 +1,15 @@
+C:\do0CodeS\C#\CSharp-Linguagem\bin\Debug\net7.0\CSharp-Linguagem.exe
+C:\do0CodeS\C#\CSharp-Linguagem\bin\Debug\net7.0\CSharp-Linguagem.deps.json
+C:\do0CodeS\C#\CSharp-Linguagem\bin\Debug\net7.0\CSharp-Linguagem.runtimeconfig.json
+C:\do0CodeS\C#\CSharp-Linguagem\bin\Debug\net7.0\CSharp-Linguagem.dll
+C:\do0CodeS\C#\CSharp-Linguagem\bin\Debug\net7.0\CSharp-Linguagem.pdb
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.csproj.AssemblyReference.cache
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.AssemblyInfoInputs.cache
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.AssemblyInfo.cs
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.csproj.CoreCompileInputs.cache
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.dll
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\refint\CSharp-Linguagem.dll
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.pdb
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\CSharp-Linguagem.genruntimeconfig.cache
+C:\do0CodeS\C#\CSharp-Linguagem\obj\Debug\net7.0\ref\CSharp-Linguagem.dll
